@@ -6,6 +6,7 @@ public class Shital {
 public static void main(String[]args) {
 	Shital s= new Shital();
     System.out.println(s.balance);
+    System.out.println("hello");
 		
 }
 }
